@@ -1,0 +1,14 @@
+2021-06-02 18:06:14,071 INFO c.c.s.w.p.p.Practice5Application [main] Starting Practice5Application using Java 1.8.0_141 on Sunil-PC with PID 11544 (C:\Users\sunil\Documents\git\spring_boot_practice\practice-5\target\classes started by sunil in C:\Users\sunil\Documents\git\spring_boot_practice\practice-5)
+2021-06-02 18:06:14,102 DEBUG c.c.s.w.p.p.Practice5Application [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-02 18:06:14,102 INFO c.c.s.w.p.p.Practice5Application [main] No active profile set, falling back to default profiles: default
+2021-06-02 18:06:16,883 INFO c.c.s.w.p.p.Practice5Application [main] Started Practice5Application in 3.543 seconds (JVM running for 5.806)
+2021-06-02 18:06:21,722 DEBUG c.c.s.w.p.p.PracticeController [http-nio-8080-exec-1] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2021-06-02 18:06:21,727 DEBUG c.c.s.w.p.p.PracticeController [http-nio-8080-exec-1] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2021-06-02 18:06:28,904 DEBUG c.c.s.w.p.p.PracticeController [http-nio-8080-exec-2] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2021-06-02 18:06:28,904 DEBUG c.c.s.w.p.p.PracticeController [http-nio-8080-exec-2] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2021-06-02 18:06:30,099 DEBUG c.c.s.w.p.p.PracticeController [http-nio-8080-exec-3] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2021-06-02 18:06:30,099 DEBUG c.c.s.w.p.p.PracticeController [http-nio-8080-exec-3] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2021-06-02 18:08:44,474 INFO c.c.s.w.p.p.Practice5Application [main] Starting Practice5Application using Java 1.8.0_141 on Sunil-PC with PID 4332 (C:\Users\sunil\Documents\git\spring_boot_practice\practice-5\target\classes started by sunil in C:\Users\sunil\Documents\git\spring_boot_practice\practice-5)
+2021-06-02 18:08:44,498 DEBUG c.c.s.w.p.p.Practice5Application [main] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-02 18:08:44,498 INFO c.c.s.w.p.p.Practice5Application [main] No active profile set, falling back to default profiles: default
+2021-06-02 18:08:47,258 INFO c.c.s.w.p.p.Practice5Application [main] Started Practice5Application in 3.688 seconds (JVM running for 6.477)
